@@ -1,0 +1,2 @@
+#Ignore the files that include security keys.
+s3_website.yml
